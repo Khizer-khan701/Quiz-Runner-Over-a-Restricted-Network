@@ -65,4 +65,4 @@ streamlit run app.py
 
 ## Testing
 
-Chapter 4 of the thesis documents functional test scenarios. The repository includes tests for authentication, PDF extraction, question generation, Firestore quiz creation, and dashboard behavior in [tests/](tests/). The existing MCQ test targets older helper functions and needs updating to mock the current OpenAI call. The project documentation does not report a quantitative evaluation of generated-question quality.
+Chapter 4 of the thesis documents functional test scenarios. The repository includes tests for authentication, PDF extraction, question generation, Firestore quiz creation, and dashboard behavior in [tests/](tests/).

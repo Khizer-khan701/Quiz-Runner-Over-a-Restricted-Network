@@ -1,4 +1,5 @@
 # Quiz Runner Over a Restricted Network
+Thesis Report
 
 **Final-year group project · BS Artificial Intelligence · Hazara University, Mansehra · 2025**
 

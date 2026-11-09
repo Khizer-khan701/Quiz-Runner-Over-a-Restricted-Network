@@ -1,5 +1,7 @@
 # Quiz Runner Over a Restricted Network
 
+[THESIS REPORT](https://drive.google.com/file/d/1Vo1CnVTTEHB_QQLVQySpaUBX_yIywsUU/view?usp=drive_link)
+
 **Final-year group project · BS Artificial Intelligence · Hazara University, Mansehra · 2025**
 
 Quiz Runner turns teaching material from a PDF into a timed multiple-choice quiz. Teachers generate and preview questions, approve student registration requests, and publish quizzes. Students attempt quizzes from their assigned teacher and can view their scores. The project was built to reduce the manual work of drafting, grading, and recording classroom quizzes.
